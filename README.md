@@ -1,5 +1,3 @@
-Hello World!
+This is the CS 455: Software Engineering term project completed at the University of North Alabama in Spring 2014. The team consisted of [Michael Beaver](https://www.github.com/mbeaver502), [Travis Hunt](https://www.github.com/thunt1), [Andrew Hamilton](https://github.com/aahamilt), Drew Aaron, Chad Farley, and [Clay Boren](https://github.com/clayboren). This software implements a Windows GUI IDE and (partial) emulator of the ASSIST/I assembly language for the IBM 360/370. The project was completed in C# using Microsoft Visual Studio 2010/2012.
 
-This is not a test.
-
-Tunnel Snakes rule!
+NB: This is a fork of the [original master](https://github.com/thunt1/Tunnel_Snakes).
